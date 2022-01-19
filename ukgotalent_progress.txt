@@ -1,0 +1,10 @@
+** Striver Sheet **
+
+Day 1 :
+
+1.Set matrix Zeroes :
+
+(first Inner 2d then check the outer 
+first row and first col)
+
+2.
