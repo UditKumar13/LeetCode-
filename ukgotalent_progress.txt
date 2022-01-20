@@ -7,4 +7,12 @@ Day 1 :
 (first Inner 2d then check the outer 
 first row and first col)
 
-2.
+2.Pascal Triangle 
+(Array ArrayList  : arr[i-1] + arr[i] logic )
+
+3.Next Permutation :
+
+(find i from the increasing subarray from the last , find j from the last ele
+where arr[i] < arr[j] , swap arr[i] and arr[j], now reverse arr[i+1] till arr[n-1])
+
+4.
