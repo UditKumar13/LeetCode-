@@ -19,4 +19,8 @@ where arr[i] < arr[j] , swap arr[i] and arr[j], now reverse arr[i+1] till arr[n-
 (Initially sum =0 , max = arr[0] , 
 if Sum<0, then make sum = 0 , now from i=1 to n ,sum+= arr[i] then compete the max ,sum )
 
-5.
+5.Sort array of 0's 1's 2's :
+(i=0 j =0 k =n-1,
+while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
+,arr[i]==2 swap(arr[i],arr[k])k-- simple do this )
+

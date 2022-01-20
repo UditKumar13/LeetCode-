@@ -1,6 +1,6 @@
 
 // Took 10 min
-
+// This variation is called Dutch National Flag algorithm
 class Solution {
   public void swap (int i , int j, int [] arr){
     
