@@ -24,3 +24,8 @@ if Sum<0, then make sum = 0 , now from i=1 to n ,sum+= arr[i] then compete the m
 while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 ,arr[i]==2 swap(arr[i],arr[k])k-- simple do this )
 
+6.Buy and Sell :
+(It uses the beautiful application of kadane's logic )
+
+2.Day 2 :
+
