@@ -15,4 +15,8 @@ first row and first col)
 (find i from the increasing subarray from the last , find j from the last ele
 where arr[i] < arr[j] , swap arr[i] and arr[j], now reverse arr[i+1] till arr[n-1])
 
-4.
+4.Kadane's algo Maximum Subarray :
+(Initially sum =0 , max = arr[0] , 
+if Sum<0, then make sum = 0 , now from i=1 to n ,sum+= arr[i] then compete the max ,sum )
+
+5.
