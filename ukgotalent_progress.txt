@@ -28,4 +28,9 @@ while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 (It uses the beautiful application of kadane's logic )
 
 2.Day 2 :
+7.Rotate Image :
+
+(1.Transpose 2. reverse by row)
+
+8.
 
