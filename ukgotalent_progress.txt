@@ -32,5 +32,19 @@ while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 
 (1.Transpose 2. reverse by row)
 
-8.
 
+
+8.Merge Intervals :
+
+(start and end use and a condition where s <= end then update else add the range)
+
+9.Merge two sorted array :
+(tail approach simply better start from the last ele to first)
+
+10.Duplicate ele :
+(Use 2 pointers approach , tortoise and hare algo)
+
+11.Missing number : 
+(here we use XOR operator approach bcz a^a = 0)
+
+12.
