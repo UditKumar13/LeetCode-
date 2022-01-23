@@ -32,8 +32,6 @@ while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 
 (1.Transpose 2. reverse by row)
 
-
-
 8.Merge Intervals :
 
 (start and end use and a condition where s <= end then update else add the range)
@@ -47,4 +45,8 @@ while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 11.Missing number : 
 (here we use XOR operator approach bcz a^a = 0)
 
-12.
+12.Global and local Inversion : 
+(This is the question where the smartness comes into the play... :) 
+Just find the 1 counter e.g where it can't return false )
+
+13.  
