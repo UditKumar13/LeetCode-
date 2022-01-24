@@ -49,4 +49,13 @@ while(i<=k) if arr[i] ==1 i++ , arr[i]==0 swap(arr[i],arr[j]) i++,j++
 (This is the question where the smartness comes into the play... :) 
 Just find the 1 counter e.g where it can't return false )
 
-13.  
+13.Search in 2d matrix :
+(Start from the top right corner and start traversal according to the 
+constraints given ) 
+
+14.Pow(x,n)
+
+(Beware of the condition of the negative n  :
+if (n<0) return 1/x * myPow(1/x, -(n+1))) 
+
+15. 
