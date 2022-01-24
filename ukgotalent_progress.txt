@@ -58,4 +58,9 @@ constraints given )
 (Beware of the condition of the negative n  :
 if (n<0) return 1/x * myPow(1/x, -(n+1))) 
 
-15. 
+15. Majority ele n>2 :
+(We have use the Boyre Moore majority algo)
+
+16.Majority ele n>3 :
+
+() 
