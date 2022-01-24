@@ -63,4 +63,7 @@ if (n<0) return 1/x * myPow(1/x, -(n+1)))
 
 16.Majority ele n>3 :
 
-() 
+(We have used the Boyre Moore majority algo for finding the atmost
+ 2 number if possible) 
+
+17.
