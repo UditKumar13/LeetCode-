@@ -70,4 +70,32 @@ if (n<0) return 1/x * myPow(1/x, -(n+1)))
 (Learned new way of swapping and how not to use 
 factorial function instead use mul and div with a for loop)
 
-18.
+18.2 Sum problem :
+(We have used the hashmap concept , remaning part and all)
+
+19. 4 sum problem :
+(O(n3 solution)
+
+2 for loop of i and j , and a 2 pointer approach from j+1 to n-1)
+
+20.Longest consecuitve sequence :
+(He have use the hashset and consecutive logic 
+set.remove(num)
+int val = num 
+int sum =1 
+while(set.remove(val-1) ) val--
+sum += num -val 
+
+val = num 
+
+while(set.remove(val+1)) val++
+sum += val - num 
+
+if(sum>max) update max 
+
+21.Longest subarray with 0 sum :
+
+(Logic is to store the prfix sum in hashmap key as sum and val as index 
+if you get the same prefix sum, j - i is a subarray with sum = 0  )
+
+22.
