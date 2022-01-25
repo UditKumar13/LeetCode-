@@ -66,4 +66,8 @@ if (n<0) return 1/x * myPow(1/x, -(n+1)))
 (We have used the Boyre Moore majority algo for finding the atmost
  2 number if possible) 
 
-17.
+17.Unique paths :
+(Learned new way of swapping and how not to use 
+factorial function instead use mul and div with a for loop)
+
+18.
