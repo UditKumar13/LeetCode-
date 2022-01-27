@@ -23,24 +23,23 @@ public class Solution {
       ListNode fast = head  ;
  
       
-      if (head.next.next == null ){
-        return false ; 
-      }
       
-      int count = 0 ; 
       
-      while((slow != fast && fast.next != null && fast.next.next != null) || (count == 0)){
+
+      
+      while( fast.next != null && fast.next.next != null ){
         slow = slow.next ; 
         fast = fast.next.next ;
-        count++ ;   
+       
+         if(slow == fast){
+        return true ; 
+      }
         
      
         
       }
       
-      if(slow == fast){
-        return true ; 
-      }
+     
       
       return false  ; 
       
