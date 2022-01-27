@@ -98,4 +98,31 @@ if(sum>max) update max
 (Logic is to store the prfix sum in hashmap key as sum and val as index 
 if you get the same prefix sum, j - i is a subarray with sum = 0  )
 
-22.
+22.Count number of subarrays  with the given xor :
+(We have use the hashmap + the startegy of counting the 
+xor ^ B count and adding it 
+)
+
+23.Longest Substring  without repeat :
+(Pepcoding way using the hashmap  and i j while loop with ==2 breaks
+condition)
+
+Day 5 : 
+
+24.Reverse a LL 
+
+25.Middle of LL 
+
+26.Merge two sorted LL
+
+27.Remove Nth node from back of LL 
+
+28.Add two numbers ** LL 
+
+29.Delete given node from LL
+
+
+Day 6 : 
+
+30.
+
