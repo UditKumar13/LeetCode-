@@ -124,5 +124,27 @@ Day 5 :
 
 Day 6 : 
 
-30.
+30.Find Intersection pt. of linked list :
+
+(first cal the len of both the linked list , move the pointer of the bigger one till
+the len become same , 
+once it  is of same length, move both pointer at the same time if pointer is same at any tiem
+we have got the intersection point)
+
+31.Detect a cycle :
+
+(Take a slow and fast, 
+run the fast by 2 and slow by 1 , if any time slow == fast 
+return true we have found the cycle)
+
+32.Check if linked list is a palindrome or not :
+
+(go to the mid+1 address with slow, by moving fast ptr by 2,
+once you reached mid+1 , fast = head, and reverse the right part of LL,
+now start a while  loop till slow!= null , if slow.val != fast.val
+then not a pali else pali slow=slow.ptr and fast=fast.val )
+
+33.Reverse a Linked List :
+
+() 
 
