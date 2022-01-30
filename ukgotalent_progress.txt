@@ -1,5 +1,16 @@
 ** Striver Sheet **
 
+// Pro level :
+
+Easy : 5 min 
+Medium : 20 min 
+Hard : ?
+
+// Current Level 
+Easy : 
+Medium : 
+Hard : 
+
 Day 1 :
 
 1.Set matrix Zeroes :
@@ -175,5 +186,22 @@ move slow and fast by 1  , now the point where they we will meet is the
 meeting node of the lined list
 )
 
-35.
+35.** Flatening the Linked List :
+( 24*7 Innovation Labs Amazon Drishti-Soft 
+Flipkart Goldman Sachs Microsoft Paytm 
+Payu Qualcomm Snapdeal Visa  )companies : 
+
+(It will be solve by the recursion, a very beautiful recursion )
+(think to root.next = flatten(root.next)
+and have to merge root = merge_LL(root,root.next)
+return root
+
+think merge_LL as the simple 2 Linked list now just have to merge it int a 
+single linked list )
+
+
+36.
+
+
+
 
