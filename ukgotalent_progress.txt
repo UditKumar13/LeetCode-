@@ -144,7 +144,36 @@ once you reached mid+1 , fast = head, and reverse the right part of LL,
 now start a while  loop till slow!= null , if slow.val != fast.val
 then not a pali else pali slow=slow.ptr and fast=fast.val )
 
-33.Reverse a Linked List :
+33.Reverse a Linked List k groups:
 
-() 
+(Recursive solution , curr =head , count = 0 globally 
+then a while loop while(curr != null && count!= k)curr=curr.next count++
+
+now if(count == k){
+curr = Recursion(curr,k)
+while(count -- >0){
+ListNode tmp = head.next 
+head.next =curr 
+curr = head
+head = tmp
+}
+
+head = curr
+}
+return head ) 
+
+34.meeting node of a cycle in a linked list :
+
+We will use Floyd Cycle Algorithm : 
+
+https://leetcode.com/problems/linked-list-cycle-ii/discuss/1701055/JavaC%2B%2BPython-best-explanation-ever-happen's-for-this-problem
+
+
+(move slow by 1and fast by 2, if they meet at any point 
+fast = head , slow ko wahi rhko aab , start a new while loop and just 
+move slow and fast by 1  , now the point where they we will meet is the 
+meeting node of the lined list
+)
+
+35.
 
