@@ -200,7 +200,29 @@ think merge_LL as the simple 2 Linked list now just have to merge it int a
 single linked list )
 
 
-36.
+36. ** Rotate List : 
+(make a dummy node , 
+fast = dummy  , slow = dummy
+ calculate the length ,len of LL
+fast ko last node prr le jaoo , while cal len
+then for j=len-k%len ; j>0 ; j-- 
+slow = slow.next 
+
+// logic 
+//last node ko head se jodo 
+fast.next = head
+// dummy.next ko slow.next krdo 
+dummy.next = slow.next 
+// slow ke next ko end bna do
+slow.next = null 
+
+return dummy.next  
+) 
+
+
+Day 7 :
+
+37.
 
 
 
