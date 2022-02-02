@@ -222,7 +222,43 @@ return dummy.next
 
 Day 7 :
 
-37.
+37.Random  LL :
+(Have seen from the dicussion )
+
+
+38.3 sum : (Medium)
+(Striver you tube solution 
+take care of the duplicate and maintain i=0 to i<arr.length-2
+
+in the inner loop 
+
+just run the 2 pointer approach by maintaining the sum = -arr[i]
+if (arr[lo] + ar[hi ] == sum) then res.add(arr[i],arr[lo],arr[hi])
+}
+
+
+39. Trapping running water : (Hard**)
+
+(logic is water is added to the curr left building if the right building is 
+bigger than the current and also the max_left building is also big 
+
+so these are the sufficient conditions to take a decision for the curr building
+
+water += max_li - height[li] ;
+
+li++ 
+and if the height[li] > height[ri ] 
+and height[ri] < max_ ri
+
+then only 
+water += max_ri - height[ri]
+
+else updation max_ri = height[ri]
+
+ri--  ; 
+
+40.
+
 
 
 
