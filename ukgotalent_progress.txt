@@ -133,7 +133,7 @@ Day 5 :
 29.Delete given node from LL
 
 
-Day 6 : 
+## Day 6 : 
 
 30.Find Intersection pt. of linked list :
 
@@ -220,7 +220,7 @@ return dummy.next
 ) 
 
 
-Day 7 :
+## Day 7 :
 
 37.Random  LL :
 (Have seen from the dicussion )
@@ -261,7 +261,20 @@ ri--  ;
 (2 poiner approach , maintain the curr and skip the index that have 
 duplicate, if not arr[count] = arr[i], count++ )
 
-41. 
+41.Count consecutive ones : 
+
+(initialize 2 things max =0 , curr = 0 
+// if u see a 0 make curr= 0 , else if u keep seeing 1,increase curr by 1
+for (int n : arr){
+max = Math.max(max, curr = n == 0 ? 0 : curr +1 ) ; 
+}
+
+return max ; )
+
+
+## Day 8 : 
+
+42.
 
 
 
