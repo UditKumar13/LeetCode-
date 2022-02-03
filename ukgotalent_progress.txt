@@ -257,7 +257,11 @@ else updation max_ri = height[ri]
 
 ri--  ; 
 
-40.
+40.Remove duplicates : 
+(2 poiner approach , maintain the curr and skip the index that have 
+duplicate, if not arr[count] = arr[i], count++ )
+
+41. 
 
 
 
