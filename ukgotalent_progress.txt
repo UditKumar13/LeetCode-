@@ -1,5 +1,9 @@
 ** Striver Sheet **
 
+Leetcode people :
+
+https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
+
 // Pro level :
 
 Easy : 5 min 
@@ -7,9 +11,9 @@ Medium : 20 min
 Hard : ?
 
 // Current Level 
-Easy : 
-Medium : 
-Hard : 
+Easy : 15 min
+Medium : 30 min
+Hard : ?
 
 Day 1 :
 
@@ -274,7 +278,48 @@ return max ; )
 
 ## Day 8 : 
 
-42.
+42.Daily challenge 4 sum II (454):
+
+(To solve this 
+**Brute force : TC :O(n^4), SC: O(1) have to run the 4 loops it will run all the
+possibility that arr[i] + arr[j] + arr[k] + arr[l] == 0
+
+**Optimized : TC: O(n^2 * logn) SC: O(n^2):
+
+n^2*logn  for using HashMap for storing the sum of every pair arr[k]+arr[l]
+
+and then after storing, we just run the 2 for loop of i and j
+and check if, int sum = -(arr[i] + arr[j])
+int ans = 0 ;
+inside the 2 for loop 
+
+ans+=map.getOrDefault(sum,0) ; 
+return ans ;  
+
+
+ )
+
+43.Merge k sorted linked list :
+
+(Divide and conquer just like the merge sort 
+, but here the merge is different 
+merge (LinkedList l1, LinkedList l2){
+if (l1==null) return  l2
+if (l2==null) return l1
+if(l1.val < l2.val){
+// if this is small competition is between l1's next and l2
+l1.next = merge(l1.next,l2);
+return l1;
+)
+
+
+else {
+l2.next = merge(l1,l2.next) ;
+return l2 ; 
+}
+
+
+44.
 
 
 
