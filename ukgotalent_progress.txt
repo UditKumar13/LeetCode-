@@ -319,7 +319,23 @@ return l2 ;
 }
 
 
-44.
+44.find the difference :
+(2 strings given s and t , one char is different ,
+don't use the xor multiplication technique , instead use the 
+int conversion with s subtraction and t addition 
+int ans  = (int) t.charAt(t.length()-1))
+
+
+for (int i=0;i<s.length() ;i++){
+ans -= (int)s.charAt(i);
+ans -= (int)t.charAt(i);
+}
+
+return (char)ans ; 
+
+
+Greedy prob : 
+45.
 
 
 
