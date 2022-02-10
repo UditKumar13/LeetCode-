@@ -4,8 +4,8 @@ Leetcode people :
 
 https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
 
-gfg_curr_counter  =1 ; // for 14 feb 2022 
-gfg_total = 1 ;  
+gfg_curr_counter  =3 ; // for 14 feb 2022 
+gfg_total = 3 ;  
 // Pro level :
 
 Easy : 5 min 
@@ -364,9 +364,43 @@ ans = Math.max(min_plat,ans);
 }
 
 
-46.
+46.Job Sequencing :
+
+(Step 1 : sort the array wrt the profit
+step2 : find the max deadline 
+step3 : make arr called res[max_dead+1]
+fill the res from 1 to max_Dead = -1 
+int count = 0, tot_profit = 0 ; 
+step4:for (int i =0 ; i<jobs; i++){
+// j is for finding the suitable place to complete the job
+for(int j =arr[i].deadline ; j>=1 ; j--){
+    if(res[j] == -1){
+       res[j] = i ; 
+       count++ ; 
+       tot_profit +=  arr[i].profit;
+}
+}
+
+return tot_profit ; )
+
+47.(med)Subarray sum equal k :
+Brute force : O(n2) 2 for loops 
+Optimized : O(n) (Step1 :use the concept of frequency sum
+STEP2 : MAKE A hashmap<int,int> of rem_sum ,#times it appears before
+map.put(0,1) ; // base case  // k=target
+int res = 0 , sum = 0 ; 
+for (int  i =0 ; i<arr.length ; i++){
+sum += arr[i] ;
+int rem_sum = sum -  k  ;  
+if(map.containsKey(rem_sum) // agar rem_sum hai toh ho bhi contigous hai){
+res += map.get(rem_sum); // previously kitni baar aaya hai ye
+}
+map.put(sum, map.getOrDefault(sum,0) + 1); // bcz sum is contiguous in iteslf
+}
+return res ; 
+ )
 
 
 
-
+48.
 
