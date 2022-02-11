@@ -4,8 +4,8 @@ Leetcode people :
 
 https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
 
-gfg_curr_counter  =3 ; // for 14 feb 2022 
-gfg_total = 3 ;  
+gfg_curr_counter  =4 ; // for 14 feb 2022 
+gfg_total = 4 ;  
 // Pro level :
 
 Easy : 5 min 
