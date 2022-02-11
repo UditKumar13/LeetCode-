@@ -4,8 +4,8 @@ Leetcode people :
 
 https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
 
-gfg_curr_counter  =4 ; // for 14 feb 2022 
-gfg_total = 4 ;  
+gfg_curr_counter  =5; // for 14 feb 2022 
+gfg_total =5;  
 // Pro level :
 
 Easy : 5 min 
@@ -402,5 +402,47 @@ return res ;
 
 
 
-48.
+48.Minimum number of coins :
 
+(Step 1 :we have to use the dp 
+m : len of coins , V: Target value
+
+make V size dp array
+dp[0] and from dp[1] t0 dp[V] = Integer.MAX_VALUE ;
+Brute force is Exponential , 
+Step 2 : O(Vm) TC  
+for (int i=1; i<=V;i++){
+for(int j = 0 ; j<m ; j++){
+    if (coins[j] <= i ){
+    int cur_res = i-coins[j] ; // check the prev coin and further check
+
+    if (cur_res != Integer.MAX_VALUE && cur_res + 1 <dp[i]){
+           dp[i] = cur_res +1  ;
+ }
+}
+}
+if (dp[V] == Integer.MAX_VALUE ) return -1 ; 
+else return dp[V]
+}
+
+)
+
+
+#Day 9 :
+
+49.Permutation in a String :
+Brute force : Sort both and check s1 length match return true nlogn
+
+Optimized approach  : use the freq contribution of s1 as + and s2 as -
+
+
+(Step 1 : Sliding window and the frequency  usage )
+int [] count  = new int [26] ; 
+(Step 2 add both s1 size , ele from s1 and s2 starting 
+then release a letter from starting of s2 as ++ and add one ele from i=len2
+as -ve and everytime check if count's sum is 0 or not )
+
+
+*Recursion* :
+ 
+50.
