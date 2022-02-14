@@ -4,8 +4,8 @@ Leetcode people :
 
 https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
 
-gfg_curr_counter  =5; // for 14 feb 2022 
-gfg_total =5;  
+gfg_curr_counter  =7; // for 14 feb 2022 
+gfg_total =7;  
 // Pro level :
 
 Easy : 5 min 
@@ -430,7 +430,8 @@ else return dp[V]
 
 #Day 9 :
 
-49.Permutation in a String :
+49.#DC :
+Permutation in a String :
 Brute force : Sort both and check s1 length match return true nlogn
 
 Optimized approach  : use the freq contribution of s1 as + and s2 as -
@@ -445,7 +446,8 @@ as -ve and everytime check if count's sum is 0 or not )
 
 *Recursion* :
  
-50.Subsets :
+50.#DC:
+Subsets :
 https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 
 
@@ -472,7 +474,8 @@ add_rec(li,temp_li,nums,i+1);
 temp_li.remove(temp_li.size()-1) ;  
 })
 
-51.Height of binary tree :
+51.#DC
+Height of binary tree :
 
 Recursive 2 calls in the left and right 
 return Math(left,right) + 1 ; 

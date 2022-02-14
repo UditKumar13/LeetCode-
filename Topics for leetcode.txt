@@ -1,0 +1,6 @@
+
+1.Binary search : 
+
+https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+
+2.
