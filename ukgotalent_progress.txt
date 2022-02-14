@@ -445,4 +445,37 @@ as -ve and everytime check if count's sum is 0 or not )
 
 *Recursion* :
  
-50.
+50.Subsets :
+https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+
+
+  The Java String class compareTo() method compares the given 
+  string with the current string lexicographically. 
+  It returns a positive number, negative number, or 0.
+  ___________________________________________
+  	if s1 > s2, it returns positive number  
+	if s1 < s2, it returns negative number  
+	if s1 == s2, it returns 0
+
+Step 1 :Sort the array nums
+then call add_recursive(li,new ArrayList<>(), nums, 0)
+
+
+then in this add_recursive we have 
+step2 : add_rec(li,temp_li,nums,st){
+
+li.add(new ArrayList<>(temp_li) ;
+
+for(int i=start; i<nums.length ; i++){
+temp_li.add(nums[i]) ;
+add_rec(li,temp_li,nums,i+1);
+temp_li.remove(temp_li.size()-1) ;  
+})
+
+51.Height of binary tree :
+
+Recursive 2 calls in the left and right 
+return Math(left,right) + 1 ; 
+
+52.
+
