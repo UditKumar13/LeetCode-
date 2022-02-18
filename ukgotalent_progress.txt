@@ -4,7 +4,8 @@ Leetcode people :
 
 https://docs.google.com/spreadsheets/d/1WXK7Mdg-EQpmLP0KT-A74WCKeO-rTj_hmwOly6nBxXs/edit#gid=0
 
-gfg_curr_counter  =7; // for 14 feb 2022 
+gfg_old = 7; // for 1 March  feb 2022 
+gfg_curr_counter = 0 ;
 gfg_total =7;  
 // Pro level :
 
@@ -264,7 +265,7 @@ else updation max_ri = height[ri]
 ri--  ; 
 
 40.Remove duplicates : 
-(2 poiner approach , maintain the curr and skip the index that have 
+(2 pointer approach , maintain the curr and skip the index that have 
 duplicate, if not arr[count] = arr[i], count++ )
 
 41.Count consecutive ones : 
@@ -280,7 +281,8 @@ return max ; )
 
 ## Day 8 : 
 
-42.Daily challenge 4 sum II (454):
+42.#DC :
+4 sum II (454):
 
 (To solve this 
 **Brute force : TC :O(n^4), SC: O(1) have to run the 4 loops it will run all the
@@ -480,5 +482,15 @@ Height of binary tree :
 Recursive 2 calls in the left and right 
 return Math(left,right) + 1 ; 
 
-52.
+52.Subset sum :
+Tc (2^N) 
+Optimized  : 
+we let the recursion play here 
+* consider the idx ele and add it to the sum and increase the index by 1
+* don't consider the ele and just increase the index 
+base case if idx == n 
+Al.add(sum) 
+sort(sum)
+
+53.
 
