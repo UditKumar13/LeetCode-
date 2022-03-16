@@ -3,4 +3,8 @@
 
 https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
 
-2.
+2. Some Intersesting Questions 
+
+
+Q 145 Postorder
+Q 146 
