@@ -8,3 +8,9 @@ https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-
 
 Q 145 Postorder
 Q 146 
+Q Max number of subsequence in a string
+Q Min OPerations to Halve Array sum
+
+
+Time complexity 
+https://leetcode.com/discuss/interview-question/1105473/Solving-problems-with-aid-of-problem-constraints

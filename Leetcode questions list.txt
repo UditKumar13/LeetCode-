@@ -1,0 +1,6 @@
+Leetcode Questions List
+Time complexity with n constraint
+https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+1.Min op to half sum array.(Contest Biweekly 74)
+2.Kth Largest element in an array.Q(215) (done)
+3.Matrix Median 
