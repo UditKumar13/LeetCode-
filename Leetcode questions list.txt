@@ -4,7 +4,10 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 1.Min op to half sum array.(Contest Biweekly 74)(done)
 2.Kth Largest element in an array.Q(215) (done)
 3.Matrix Median (done)
-4.Maximize Number of Subsequence in a String()
-5.https://www.geeksforgeeks.org/number-of-subsequences-with-even-and-odd-sum/
-6.74 
-7.189
+4.Maximize Number of Subsequence in a String(done)
+5.https://www.geeksforgeeks.org/number-of-subsequences-with-even-and-odd-sum/(done)
+6.74 (done)
+7.189(done)
+8.Single ele in sorted array Q540()
+9.
+10.89()

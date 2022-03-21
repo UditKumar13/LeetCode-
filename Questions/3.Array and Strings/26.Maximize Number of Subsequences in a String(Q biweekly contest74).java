@@ -1,3 +1,5 @@
+
+TC O(n) SC O(n)
 class Solution {
     public long maximumSubsequenceCount(String text, String pattern) {
         long  ans1 = 0, ans2 = 0;
