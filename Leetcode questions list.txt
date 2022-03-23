@@ -8,6 +8,7 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 5.https://www.geeksforgeeks.org/number-of-subsequences-with-even-and-odd-sum/(done)
 6.74 (done)
 7.189(done)
-8.Single ele in sorted array Q540()
-9.
+8.Single ele in sorted array Q540(done)
+9.Search in Rotated Sorted Array Q33()
+10.Find Minimum in Rotated Array Q153()
 10.89()
