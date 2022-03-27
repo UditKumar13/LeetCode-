@@ -18,4 +18,9 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 14.Leetcode 433()
 15.Leetcode 4(**Hard Nice one)(done)
 16.Leetcode 83 Easy (done)
-17.
+17.GFG kth ele in 2 sorted array(done)
+18.Allocate-books(Asked in Google and Flipkart)(done)
+19.Leetcode 1671 (Hard)()
+20.Leetcode 416 (Medium)()
+21.Leetcode 70 (Easy)(done)
+22.Leetcode 338 Easy() 
