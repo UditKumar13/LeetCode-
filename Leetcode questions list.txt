@@ -31,3 +31,12 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 24.Leetcode 5 ()
 25.Leetcode 91()
 26.Leetcode 421(done) 
+27.leetcode 1707(done)
+28.Leetcode 1441(done)
+29.Leetcode 494()
+30.Leetcode 680, Easy(done)
+31.Leetcode 225,Easy(done)
+32.Leetcode 232,Easy(done)
+33.Leetcode 496, Easy(done)
+34.Leetcode 504, Medium ()
+
