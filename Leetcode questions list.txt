@@ -3,6 +3,17 @@ Ankur Profile:
 https://leetcode.com/user4167p/
 Time complexity with n constraint
 https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+
+Trees : 
+Striver 
+
+Graphs:
+Striver
+
+Dynammic Programming:
+Aditya Verma 
+
+
 1.Min op to half sum array.(Contest Biweekly 74)(done)
 2.Kth Largest element in an array.Q(215) (done)
 3.Matrix Median (done)
@@ -39,4 +50,20 @@ https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-
 32.Leetcode 232,Easy(done)
 33.Leetcode 496, Easy(done)
 34.Leetcode 504, Medium ()
+35.Sort a stack () 
+https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
+
+36.Leetcode 191() do long time baad
+37.Leetcode 231() do long time baad.
+38.Leetcode 542() medium.
+39.Leetcode 1721(done) med
+40.Leetcode 11 (done) med
+41.Leetcode 923() med.***write in the notebook
+Logic :
+https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-Multiplicity-or-Short-and-Easy-w-Explanation-or-Beats-100
+42.
+
+
+
+
 
