@@ -49,8 +49,8 @@ Aditya Verma
 31.Leetcode 225,Easy(done)
 32.Leetcode 232,Easy(done)
 33.Leetcode 496, Easy(done)
-34.Leetcode 504, Medium ()
-35.Sort a stack () 
+34.Leetcode 504, Easy (done)
+35.Sort a stack () processing.
 https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
 
 36.Leetcode 191() do long time baad
@@ -58,10 +58,13 @@ https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
 38.Leetcode 542() medium.
 39.Leetcode 1721(done) med
 40.Leetcode 11 (done) med
-41.Leetcode 923() med.***write in the notebook
+41.Leetcode 923()
+Do once again med.***write in the notebook
 Logic :
 https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-Multiplicity-or-Short-and-Easy-w-Explanation-or-Beats-100
-42.
+42.Leetcode 1641()
+43.Leetcode 1046(Done)
+
 
 
 
