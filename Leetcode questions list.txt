@@ -64,6 +64,10 @@ Logic :
 https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-Multiplicity-or-Short-and-Easy-w-Explanation-or-Beats-100
 42.Leetcode 1641()
 43.Leetcode 1046(Done)
+44.Leetcode 75()
+45.Leetcode 703(Done)
+46.Leetcode 146(Done) med**
+
 
 
 
