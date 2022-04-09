@@ -28,7 +28,7 @@ Aditya Verma
 11.Leetcode 121(done)
 12.Leetcode 443(done)
 13.Leetcode Easy 717(done)
-14.Leetcode 433()
+14.Leetcode 433()** Lets do 14 first
 15.Leetcode 4(**Hard Nice one)(done)
 16.Leetcode 83 Easy (done)
 17.GFG kth ele in 2 sorted array(done)
@@ -50,7 +50,7 @@ Aditya Verma
 32.Leetcode 232,Easy(done)
 33.Leetcode 496, Easy(done)
 34.Leetcode 504, Easy (done)
-35.Sort a stack () processing.
+35.Sort a stack (done) processing.
 https://www.geeksforgeeks.org/sort-a-stack-using-recursion/
 
 36.Leetcode 191() do long time baad
@@ -67,6 +67,8 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 44.Leetcode 75()
 45.Leetcode 703(Done)
 46.Leetcode 146(Done) med**
+47.Leetcode 347() // many questions are linked to it.
+
 
 
 
