@@ -67,7 +67,7 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 44.Leetcode 75()
 45.Leetcode 703(Done)
 46.Leetcode 146(Done) med**
-47.Leetcode 347() // many questions are linked to it.
+47.Leetcode 347(Done) // many questions are linked to it.
 
 
 
