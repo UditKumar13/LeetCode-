@@ -75,7 +75,8 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 52.leetcode 84()
 53.leetcode 85() * lATER
 54.Leetcode 289(done)
-55.
+55.Leetcode 700 (done)
+56.Interview bit pair with given xor ()
 
 
 
