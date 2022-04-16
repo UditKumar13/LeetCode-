@@ -77,8 +77,10 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 54.Leetcode 289(done)
 55.Leetcode 700 (done)
 56.Interview bit pair with given xor ()
-57.Leetcode delete node in bst 450()
-58.Leetcode 669 ()
+57.Leetcode delete node in bst 450(done)
+58.Leetcode 669 (done)
+59.Leetcode 145 Iteratively(done)
+60.
 
 
 
