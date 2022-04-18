@@ -80,7 +80,11 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 57.Leetcode delete node in bst 450(done)
 58.Leetcode 669 (done)
 59.Leetcode 145 Iteratively(done)
-60.
+60.Leetcode 226(done)
+61.Leetcode 897(done) see the solution.
+62.Leetocode 230(done)
+63.
+
 
 
 
