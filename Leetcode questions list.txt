@@ -1,4 +1,8 @@
 Leetcode Questions List
+Bday:
+Jeet : 20April
+Ankur :24April
+
 Ankur Profile:
 https://leetcode.com/user4167p/
 Time complexity with n constraint
@@ -83,7 +87,12 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 60.Leetcode 226(done)
 61.Leetcode 897(done) see the solution.
 62.Leetocode 230(done)
-63.
+63.Leetcode 99(done) Crazy question.
+64.Leetcode 173(done) 
+65.Leetcode 705(done) ** crazy Question
+66.Leetcdoe 987()
+67.Leetcode 535()
+
 
 
 
