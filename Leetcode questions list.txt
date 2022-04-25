@@ -92,6 +92,8 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 65.Leetcode 705(done) ** crazy Question
 66.Leetcdoe 987()
 67.Leetcode 535()
+68.Leetcode 1396() Do it once again
+69.Leetcode 284()
 
 
 
