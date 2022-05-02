@@ -91,10 +91,14 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 64.Leetcode 173(done) 
 65.Leetcode 705(done) ** crazy Question
 66.Leetcdoe 987()
-67.Leetcode 535()
-68.Leetcode 1396() Do it once again
-69.Leetcode 284()
-
+67.Leetcode 535() Do it 
+68.Leetcode 1396() Do it once again.
+69.Leetcode 284(done)
+70.Leetcode 1584() Do it again.
+71.Leetcode 1631() Do it again.
+72.Leetcode 785(done) 
+73.Leetcode 399(done)
+74.Leetcode 844() easy
 
 
 
