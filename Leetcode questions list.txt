@@ -1,4 +1,6 @@
 Leetcode Questions List
+APNI CODING :
+https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
 Bday:
 Jeet : 20April
 Ankur :24April
@@ -98,7 +100,8 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 71.Leetcode 1631() Do it again.
 72.Leetcode 785(done) 
 73.Leetcode 399(done)
-74.Leetcode 844() easy
+74.Leetcode 844(done) easy
+75.Leetcode 581() do it once more optimal 
 
 
 
