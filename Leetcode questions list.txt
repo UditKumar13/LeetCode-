@@ -101,6 +101,7 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 72.Leetcode 785(done) 
 73.Leetcode 399(done)
 74.Leetcode 844(done) easy
+
 75.Leetcode 581() do it once more optimal 
 
 76. Leetcode ekk auur dc tha 
@@ -108,6 +109,8 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 78.Leetcode 456 ().
 https://leetcode.com/problems/132-pattern/discuss/94089/Java-solutions-from-O(n3)-to-O(n)-for-%22132%22-pattern-(updated-with-one-pass-slution)
 
+79.Leetcode 17 () do it again.
+80.Leetcode 216 med () do it again 
 
 
 
