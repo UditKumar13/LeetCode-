@@ -1,3 +1,6 @@
+Using Dijkstra's algortihm 
+TC // O((n+e)logn)
+
 class Solution {
     
     

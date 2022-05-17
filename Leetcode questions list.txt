@@ -102,20 +102,25 @@ https://leetcode.com/problems/3sum-with-multiplicity/discuss/1123894/3Sum-With-M
 73.Leetcode 399(done)
 74.Leetcode 844(done) easy
 
-75.Leetcode 581() do it once more optimal 
+75.Leetcode 581(done) do it once more optimal 
 76. Leetcode ekk auur dc tha 
-77.Leetocode 1209 () do it again.
-78.Leetcode 456 ().
+77.Leetocode 1209 (done) do it again.
+78.Leetcode 456 (done).
 https://leetcode.com/problems/132-pattern/discuss/94089/Java-solutions-from-O(n3)-to-O(n)-for-%22132%22-pattern-(updated-with-one-pass-slution)
 
-79.Leetcode 17 () do it again.
-80.Leetcode 216 med () do it again 
+79.Leetcode 17 (done) do it again.
+80.Leetcode 216 med (done) do it again 
 81.Leetcode 1641 med () do it again
-82.Leetcode 47 med () do it again.
+82.Leetcode 47 med (done) do it again.
 83.Leetcode 116 med (done) 
 84.Leetcode 117 med (done)
-85.Leetcode 743 med ()
+85.Leetcode 743 med (done)
 https://leetcode.com/problems/network-delay-time/discuss/2036271/Java-oror-beats-100-oror-best-question-to-understand-Dijkastras
+86.Leetcode 1407 easy (done)
+87.Leetcode 1302 med (done)
+88.Leetcode 1091 med (done)
+
+90.Leetcode 417 med () // baad mein kabhi 
 
 
 
