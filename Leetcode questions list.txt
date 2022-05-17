@@ -119,8 +119,9 @@ https://leetcode.com/problems/network-delay-time/discuss/2036271/Java-oror-beats
 86.Leetcode 1407 easy (done)
 87.Leetcode 1302 med (done)
 88.Leetcode 1091 med (done)
+89.Leetcode 994 med (done)
+90.Celebrity Problem () 
 
-90.Leetcode 417 med () // baad mein kabhi 
 
 
 
