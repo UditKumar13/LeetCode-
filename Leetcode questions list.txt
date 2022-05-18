@@ -120,7 +120,15 @@ https://leetcode.com/problems/network-delay-time/discuss/2036271/Java-oror-beats
 87.Leetcode 1302 med (done)
 88.Leetcode 1091 med (done)
 89.Leetcode 994 med (done)
-90.Celebrity Problem () 
+90.Celebrity Problem (done)
+91.Leetcode 901 (done)
+92.Leetcode 1379 (done) but do the optimized approach
+93.Leetcode  151 ()
+94.Leetcode 5 (done)
+95.Leetcode 13 (done)
+96.Leetcode 2271 () Contest 
+97.leetcode 8 ()
+
 
 
 
