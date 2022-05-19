@@ -1,4 +1,7 @@
 Leetcode Questions List
+
+gfg_Question = 25 (extra)
+
 APNI CODING :
 https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
 Bday:
@@ -126,8 +129,20 @@ https://leetcode.com/problems/network-delay-time/discuss/2036271/Java-oror-beats
 93.Leetcode  151 ()
 94.Leetcode 5 (done)
 95.Leetcode 13 (done)
-96.Leetcode 2271 () Contest 
-97.leetcode 8 ()
+96.Leetcode 2271 (done) Contest 
+https://www.youtube.com/watch?v=p6KG7T2mcRU
+97.leetcode 8 (done)
+98.leetcode 1192 () hard  (Tarjan Algorithm)S 
+https://www.youtube.com/watch?v=-fMUndhKVx0
+99.
+100.Leetcode 28 (done) easy
+101.Leetcode 242 (done) easy
+102.Interview bit  (done)
+103.Leetcode 1143 (done) med 
+103.Leetcode 516 (done) med
+104.Leetcode 1312 (done) Hard  **
+105.Leetcode 329 () Hard ** do it again tomorrow 
+
 
 
 
