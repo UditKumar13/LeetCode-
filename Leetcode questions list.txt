@@ -8,6 +8,15 @@ Bday:
 Jeet : 20April
 Ankur :24April
 
+1.DP 
+Aditya verma 
+
+2.Graph and Tress 
+Striver
+
+3.System Design 
+Gaurav sen
+
 Ankur Profile:
 https://leetcode.com/user4167p/
 Time complexity with n constraint
@@ -141,7 +150,13 @@ https://www.youtube.com/watch?v=-fMUndhKVx0
 103.Leetcode 1143 (done) med 
 103.Leetcode 516 (done) med
 104.Leetcode 1312 (done) Hard  **
-105.Leetcode 329 () Hard ** do it again tomorrow 
+105.Leetcode 329 (done) Hard ** do it again tomorrow 
+106.Leetcode 38 (done)
+107.Leetcode 165 (done) 
+108.Leetcode 322 () have to do it again. coin chaange
+109.Morris traversal video () @ _ @ do it later 
+110.
+ 
 
 
 
