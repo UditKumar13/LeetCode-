@@ -155,7 +155,12 @@ https://www.youtube.com/watch?v=-fMUndhKVx0
 107.Leetcode 165 (done) 
 108.Leetcode 322 () have to do it again. coin chaange
 109.Morris traversal video () @ _ @ do it later 
-110.
+110. Leetcode 647 (done)
+111. Leetcode 474 (done) ** 
+https://www.youtube.com/watch?v=qkUZ87NCYSw
+
+112.Bottom view ()
+113.Top view ()
  
 
 
