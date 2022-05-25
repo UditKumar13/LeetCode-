@@ -2,6 +2,10 @@ Leetcode Questions List
 
 gfg_Question = 26 (extra)
 
+Revision sheet :
+https://github.com/Sunchit/Coding-Decoded/tree/master/SDE%20Revision%20Sheet
+
+
 APNI CODING :
 https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
 Bday:
@@ -158,9 +162,15 @@ https://www.youtube.com/watch?v=-fMUndhKVx0
 110. Leetcode 647 (done)
 111. Leetcode 474 (done) ** 
 https://www.youtube.com/watch?v=qkUZ87NCYSw
-
-112.Bottom view ()
-113.Top view ()
+112.Bottom view (done)
+113.Top view (done)
+114.Leetcode 513 med 1(done)
+https://www.youtube.com/watch?v=OsnikyPMU3Q
+115.Leetcode 102 med 2(done) 
+116.Leetcode 104 easy (done)
+117.Leetcode 543 easy (done) do it with striver
+118.Leetcode 32 hard (done) med 5 ** 
+119.Leetcode 110 (done) easy
  
 
 
