@@ -172,6 +172,12 @@ https://www.youtube.com/watch?v=OsnikyPMU3Q
 118.Leetcode 32 hard (done) med 5 ** 
 119.Leetcode 110 (done) easy
  
+120.Leetcode 236 med(done)
+121.Leetcode 100 easy  (done)
+122.Leetcode dolls () do it again
+123.Leetcode 103 (done) zigzag med
+124.Leetcode boundary traversal med (done)
+https://www.youtube.com/watch?v=0ca1nvR0be4
 
 
 
