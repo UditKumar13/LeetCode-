@@ -178,7 +178,16 @@ https://www.youtube.com/watch?v=OsnikyPMU3Q
 123.Leetcode 103 (done) zigzag med
 124.Leetcode boundary traversal med (done)
 https://www.youtube.com/watch?v=0ca1nvR0be4
-
+125.Leetcode 191 easy (done)
+126.Leetcode 231 easy (done)
+med 1 
+127.Leetcode 112 easy (done)
+128.Leetcode 129 med 2(done)
+129.Leetcode 662 med 3 (done) max width of binary tree.
+https://www.youtube.com/watch?v=ZbybYvcVLks
+130.Leetcode 124 hard (done) med 5 (do it once more with striver) ()
+131.Leetcode 1342 easy(done)
+132.
 
 
 
