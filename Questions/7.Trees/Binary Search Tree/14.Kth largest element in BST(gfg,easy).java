@@ -21,5 +21,9 @@ class Solution
     }
 }
 
+// Approach 1 
 TC : O(n)
 SC : O(1)
+
+
+// Appraoch 2 :
