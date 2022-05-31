@@ -1,6 +1,6 @@
 Leetcode Questions List
 
-gfg_Question = 26 (extra)
+gfg_Question = 27 (extra)
 
 Revision sheet :
 https://github.com/Sunchit/Coding-Decoded/tree/master/SDE%20Revision%20Sheet
@@ -187,7 +187,16 @@ med 1
 https://www.youtube.com/watch?v=ZbybYvcVLks
 130.Leetcode 124 hard (done) med 5 (do it once more with striver) ()
 131.Leetcode 1342 easy(done)
-132.
+
+
+132.Mirror tree easy (done)
+133.Flatten Binary tree to linked list (done)
+134.Search in a binary search tree 700 easy(done)
+135.Leetcode Valid BST  98 (done) med 3 
+136.Interview bit Distinct number in window med 4 (done)
+137.Leetcode 29 (done) 
+
+138.Leetcode 1319 ()
 
 
 
