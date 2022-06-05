@@ -33,3 +33,8 @@ class Solution {
         return ans;
     }
 }
+
+// map will store 
+  vertical height, node
+
+// 

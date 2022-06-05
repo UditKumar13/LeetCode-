@@ -72,6 +72,7 @@ class Solution {
                  
                  cur = cur.left ; // go to the left 
              }
+// 3 steps // pop ,save ,push right 
              cur = st.pop();
              ans.add(cur.val);
              
