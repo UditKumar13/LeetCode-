@@ -217,8 +217,21 @@ https://www.youtube.com/watch?v=lP2yP8Iy88c
 148.Leetcode 295 hard () 
 149.Leetcode 733 easy (done) 
 150.Leetcode 1480 easy (done)
-151.Boundary tarversal () 
-
+151.Boundary tarversal (done)
+152.burn a binary tree (done) 
+153.Leetcode 863 (done)
+154.Leetcode 222 (done)
+155.Leetcode 701 (done) 
+156.Leetcode 1038 (done)
+157.Leetcode 1008 (done)
+158.Leetcode 655 ()
+159.Leetcode 1026 () 
+160.Leetcode 207 ()
+Similar Questions 
+161.Leetcode 210()
+162.Leetcode 310 ()
+like 207 
+163.
 
 
 
