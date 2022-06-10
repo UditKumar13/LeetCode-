@@ -53,8 +53,7 @@ class Solution {
 
     public List<Integer> postorderTraversal(TreeNode root) {
  
-   LinkedList<Integer> li = new LinkedList<>();
-        Stack <TreeNode> st = new Stack<>();
+    
         if (root == null) return li;
         st.push(root);
         while(!st.isEmpty()){
