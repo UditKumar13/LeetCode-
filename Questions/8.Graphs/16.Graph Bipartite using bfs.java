@@ -12,9 +12,11 @@ class Main
 			for(Integer it: adj.get(nde)) {
 				if(color[it] == -1) {
 					color[it] = 1 - color[nde]; 
+// because we are filling the color as alternate everytime, 
 					q.add(it); 
 				}
 				else if(color[it] == color[nde]) {
+// so if this happens, that means odd cycle, which means bipartite not possible
 					return false; 
 				}
 			}

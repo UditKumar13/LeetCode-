@@ -40,7 +40,8 @@ class Solution {
         }
         boolean canFinish = false;
         if(cnt == V) {
-            // that means topological sort is possible so it is possible for Dag
+// that means topological sort is possible so it is possible for DAG
+// that means no cycle found, so course schedule is possible. 
             return true;
         }
         

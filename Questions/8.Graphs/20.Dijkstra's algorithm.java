@@ -83,7 +83,9 @@ class Main
     }
 }
 
+Logic :
 
+Because we have to update that node first which has the lowest distance that is why we are using the priority Queue
 Time Complexity: O((N+E)*logN). Going through N nodes and E edges and log N for priority queue
 
 Space Complexity: O(N). Distance array and priority queue

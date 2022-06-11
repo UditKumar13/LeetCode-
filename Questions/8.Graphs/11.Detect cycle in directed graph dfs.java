@@ -60,7 +60,7 @@ class Solution {
             	return true;
         	}
         }
-        dfsVis[node] = 0;
+        dfsVis[node] = 0; // backtrack only dfsVis array
         return false;
     }
         	
@@ -76,3 +76,13 @@ class Solution {
         return false;
     }
 }
+
+
+// Main Logic :
+
+// the difference between the cycle detection in UG and DG is that in 
+DG, we have to take teh dfsVis[] array also.
+
+
+if dfsVis and Vis both are true for any adj node only then we can say there is a cycle.
+

@@ -73,6 +73,16 @@ public class TopoLogicalSortBFS {
     }
 
 
+Logic  :
+
+// the main idea is to have  a queue , we have all the indegree array ready
+
+// We add the node which has the Indegree 0, apply bfs, decrease 1 from indegree of its neighbors.
+
+again check if any of the adjacent have indegree 0 , add it to the queue
+// if this way we have bfs travesrsal exactly equal to the number of nodes we say , topo is possible that mean it is a DAG, no cycle return false, 
+if the case is other type we say it contains cycle return true
+
 Time Complexity: O(N+E)
 
 Space complexity: O(N)+O(N)

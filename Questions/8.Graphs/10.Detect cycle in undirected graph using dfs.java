@@ -1,6 +1,6 @@
-ArrayList < ArrayList < Integer >> adj = new ArrayList < > ();
+ArrayList <ArrayList<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < V; i++) {
-            adj.add(new ArrayList < > ());
+            adj.add(new ArrayList<>());
         }
         // edge 0---1
         adj.get(0).add(1);

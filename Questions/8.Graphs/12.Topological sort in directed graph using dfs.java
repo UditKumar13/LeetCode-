@@ -8,6 +8,8 @@ class Solution {
             } 
         }
         st.push(node); 
+
+// stack ko post order mein push krne ka 
     }
     static int[] topoSort(int N, ArrayList<ArrayList<Integer>> adj) {
         Stack<Integer> st = new Stack<Integer>(); 
