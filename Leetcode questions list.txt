@@ -232,10 +232,29 @@ Similar Questions
 162.Leetcode 310 ()
 like 207 
 163.Leetcode 167 () 
+164.Leetcode 133 (done)
+165.Leetcode 207 (done)
+166.Leetcode 200 (done)
+167.Leetcode 153 (done) med
+For graphs :
+168.Leetcode 1615(done) med
+169.Leetcode 886(done) med  by bfs 
+170.Leetcode 785(done) med
+171.Leetcode 542(done) one 
+172.Leetcode 365(done)two
+173.Leetcode 1658(done)three
+174.Leetcode 1129(done)four
+175.Leetcode 802(done) ** Microsoft
+https://www.youtube.com/watch?v=yFJpECT0GvU&t=1012s
+176.Leetcode 1926(done)
+You have to find the reason why this will not work for dfs, 
+because we will never guess which calls can leads to the shortest path ,
+so in this case use only bfs for finding the shortest path.
+177.Leetcode 542 (done)
+178.Leetcode 417(done)
 
 
-
-
+// Dp 
 
 
 
