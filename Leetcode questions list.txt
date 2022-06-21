@@ -256,8 +256,33 @@ so in this case use only bfs for finding the shortest path.
 
 // Dp 
 
+179.Leetcode 64 (done)
+180.Leetcode 583(done)
+181.Leetcode 1219 (done)
+182.Leetcode 1048 (done) 
+https://leetcode.com/problems/longest-string-chain/discuss/2153004/Explaining-Three-Approaches-or-JAVA
 
+183.Leetcode 152 (done)
+184.Leetcode 300 (done)
+Similar type
+11.Leetcode 334()
+12.Leetcode 673()
 
+185.Leetcode 1143 (done)
+https://leetcode.com/problems/longest-common-subsequence/discuss/847407/Java-(Brute-Force-Recursion-With-Memoization-2D-Dyanmic-Programming)
+186.Knapsack(done)
+187.Edit distance (done)
+Leetcode 72 (done)
+188.Maximum sum increasing subsequence (done)
+189. 2 Question LinkedList (done)
+190.Matrix chain multiplication (done)
+191.Leetcode 931 (done)
+Maximum filling path sum
+192.Coin change  Leetcode 322 (done)
+193.Coin Change 2 Leetcode (done)
+194.Leetcode 1268 (done)
+195.Leetcode 820 () do it again Trie 
+196.
 
 
 
