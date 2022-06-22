@@ -282,7 +282,9 @@ Maximum filling path sum
 193.Coin Change 2 Leetcode (done)
 194.Leetcode 1268 (done)
 195.Leetcode 820 () do it again Trie 
-196.
+196.Leetcode 416 (done)
+197.Leetcode 1547 hard ()now 
+198.Leetcode 1642 () 
 
 
 
