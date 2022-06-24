@@ -12,6 +12,8 @@ https://github.com/Sunchit/Coding-Decoded/tree/master/SDE%20Revision%20Sheet
 pass by reference in java :
 https://www.educative.io/edpresso/how-to-pass-by-reference-in-java
 
+Java comparator 
+https://www.geeksforgeeks.org/comparator-interface-java/
 APNI CODING :
 https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0
 Bday:
@@ -285,10 +287,11 @@ Maximum filling path sum
 196.Leetcode 416 (done)
 197.Leetcode 1547 hard ()now 
 198.Leetcode 1642 () 
-
-
-
-
+199.Rod cutting 
+Leetcode 1547 (done)
+200.Leetcode 887 (done)
+201.Leetcode 139 (done)
+202.
 
 
 
