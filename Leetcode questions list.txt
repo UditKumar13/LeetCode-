@@ -8,9 +8,22 @@ gfg_Question = 27 (extra)
 Revision sheet :
 https://github.com/Sunchit/Coding-Decoded/tree/master/SDE%20Revision%20Sheet
 
+To speed up the u tube speed :
+document.getElementsByTagName("video")[0].playbackRate = 2.5
+
+Memory in java
+https://www.baeldung.com/java-stack-heap
+
+Oops C++ Cheatsheet 
+https://github.com/vineethm1627/OOP
+
 
 pass by reference in java :
 https://www.educative.io/edpresso/how-to-pass-by-reference-in-java
+
+
+4.C C++ Questions 
+https://www.youtube.com/watch?v=h-HBipu_1P0&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_
 
 Java comparator 
 https://www.geeksforgeeks.org/comparator-interface-java/
@@ -291,7 +304,10 @@ Maximum filling path sum
 Leetcode 1547 (done)
 200.Leetcode 887 (done)
 201.Leetcode 139 (done)
-202.
-
+202.Leetcode 132 (done) 
+203.Leetcode 1235 (done)
+204.Leetcode 260(done)
+205.Leetcode 665 () do it again  
+206.Leetcode 1423 () do it again
 
 

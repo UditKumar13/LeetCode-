@@ -25,3 +25,8 @@ class Solution {
 }
   
 }
+
+// Intution :
+
+bought ko phla ele maan lo, then for 1 to len, check kro if new ele is big than bought if it is take max of the differnce, if not make curr ele bought.
+
