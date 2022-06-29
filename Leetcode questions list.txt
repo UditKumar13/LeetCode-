@@ -309,5 +309,8 @@ Leetcode 1547 (done)
 204.Leetcode 260(done)
 205.Leetcode 665 () do it again  
 206.Leetcode 1423 () do it again
+207.Leetcode 1647 (done) do it again 
+208.Leetcode min opertion to make an array beautiful ()
+209.Leetcode 1671 ()
 
 

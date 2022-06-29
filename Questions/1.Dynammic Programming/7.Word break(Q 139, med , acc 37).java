@@ -26,3 +26,15 @@ class Solution {
  
     }   
 }
+
+
+// Intution :
+
+Phle base case f[0] true, 
+then puri string ko check krte aaye kya ye phle mili 
+jaise applepen
+apple true ho gya 
+for f[5] = T
+now f[5] && substring contains (5,8)
+then f[8] = true that means applepen can also be possible this is how we move forward
+
