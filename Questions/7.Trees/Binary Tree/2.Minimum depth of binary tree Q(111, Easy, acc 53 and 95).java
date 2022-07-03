@@ -59,14 +59,14 @@ class Solution {
 
         
          // let us implement the bfs strategy to find the depth 
-        if (root == null ) return  0 ;
+        if (root == null ) return  0;
         
         Queue<TreeNode> q = new LinkedList<>()  ;
         
         // this is the Queue of TreeNode structure 
         q.offer(root) ; // root is inserted 
         
-        int depth  =1 ;
+        int depth  = 1 ;
         
         while(!q.isEmpty()){
             
@@ -74,7 +74,7 @@ class Solution {
             
             while (size-- > 0){
                 TreeNode curr = q.poll() ;  // first phle niklta hai 
-                if (curr.left == null && curr.right == null) return depth ; // we are at 
+                if (curr.left == null && curr.right == null) return depth; // we are at 
                 // leaf node 
                 
                 if (curr.left !=null ) 
@@ -82,7 +82,7 @@ class Solution {
                 if (curr.right != null) 
                     q.offer(curr.right) ; 
             }
-            depth += 1 ; // after each level traversal incease the depth by 1 
+            depth += 1 ; // after each level traversal inrease the depth by 1 
             // go to next level 
             
         }

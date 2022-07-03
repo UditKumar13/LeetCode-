@@ -15,7 +15,7 @@
  */
 class Solution {
     
-     // Level order traversal 
+    // Level order traversal 
     private int sum = 0, lastLevel = 0;
     public int deepestLeavesSum(TreeNode root) { 
     if (root == null) return 0;
@@ -40,3 +40,6 @@ class Solution {
     }
     
 }
+
+
+// smart work is good then hard work 

@@ -28,9 +28,10 @@ class Solution {
                                      HashMap<Integer,Integer> hm){
         if (ps>pe || is>ie) return null;
         TreeNode root = new TreeNode(postorder[pe]); // taking from the last index in post order
-        int ri = hm.get(postorder[pe]);
-        TreeNode leftchild = buildTreePostIn(inorder, is, ri-1, postorder, ps, ps+ri-is-1, hm);
-        TreeNode rightchild = buildTreePostIn(inorder,ri+1, ie, postorder, ps+ri-is, pe-1, hm);
+        int inRoot = hm.get(postorder[pe]);
+        int numleft = inRoot - is;
+        TreeNode leftchild = buildTreePostIn(inorder, is, inRoot-1, postorder, ps, ps+numleft-1, hm);
+        TreeNode rightchild = buildTreePostIn(inorder,inRoot+1, ie, postorder, ps+numleft, pe-1, hm);
         root.left = leftchild;
         root.right = rightchild;
         return root;

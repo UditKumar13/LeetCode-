@@ -30,3 +30,16 @@ class Solution {
         
     }
 }
+
+
+// iterative Intution 
+
+root ko push krna hai
+print krawaya top ele of stack 
+stack ka top ko pop kro , check right first yes push, check left if yes push
+ while mein krte jaao  
+
+
+root print
+right push 
+left push 

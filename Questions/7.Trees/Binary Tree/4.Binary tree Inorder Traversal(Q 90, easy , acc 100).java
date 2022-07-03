@@ -72,7 +72,7 @@ class Solution {
                  
                  cur = cur.left ; // go to the left 
              }
-// 3 steps // pop ,save ,push right 
+// 3 steps // pop ,save , make curr right
              cur = st.pop();
              ans.add(cur.val);
              
@@ -86,3 +86,10 @@ class Solution {
     }
     
 }
+
+
+
+2 while loop tricky 
+1 outer loop 2 conditions 
+1 inner loop curr != null 
+

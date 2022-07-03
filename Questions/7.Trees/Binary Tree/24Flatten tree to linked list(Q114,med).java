@@ -39,7 +39,7 @@ class Solution {
 
 
 // striver reverse post order
-
+R L Ro
 // right left root 
 
 class Solution {

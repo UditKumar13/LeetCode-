@@ -38,3 +38,7 @@ class Solution {
   vertical height, node
 
 // 
+
+// in top view we will just add one condition, that we will always check the map, 
+if the current, ht is already present in map, if yes we will not update it blindly 
+that is the difference.

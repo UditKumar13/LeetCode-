@@ -45,4 +45,10 @@ class Solution {
 intution is that we will do the bfs, from right to left, 
 because we want the deepest left most element 
 
-// that's why you should go for the Reverse 
+// that's why you should go for the Reverse
+
+// Intution : humko left waale mein max depth btani hai,so mujhe chahiye ki queue mein m left waale se last mein puchun
+so is liye 
+Right ko phle push kro
+then left waale ko 
+bcz queue is FIFO first in first out :
