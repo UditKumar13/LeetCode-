@@ -30,5 +30,5 @@ class Solution {
             }
         }
         
-        return s.substring(st_ans,maxLen);
+        return s.substring(st_ans,st_ans+maxLen);
     }

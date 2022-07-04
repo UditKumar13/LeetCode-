@@ -312,5 +312,12 @@ Leetcode 1547 (done)
 207.Leetcode 1647 (done) do it again 
 208.Leetcode min opertion to make an array beautiful ()
 209.Leetcode 1671 ()
+210.Leetcode 1615 (done)
+211.Leetcode 1653 (done)
+212.Leetcode 346 (done)
+https://leetcode.com/problems/wiggle-subsequence/discuss/84843/Easy-understanding-DP-solution-with-O(n)-Java-version
+213.Leetcode 1465 (done) do it again .
+214.
+
 
 
