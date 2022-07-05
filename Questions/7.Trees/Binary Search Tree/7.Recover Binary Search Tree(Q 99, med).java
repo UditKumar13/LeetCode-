@@ -26,7 +26,7 @@ class Solution {
     }
     
     public void traverse(TreeNode root){
-        if(root ==null) return;
+        if(root == null) return;
         traverse(root.left);
         
         if(firstEle == null && prev.val > root.val){

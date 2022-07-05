@@ -31,7 +31,6 @@ class Solution {
     public Pair traverse(TreeNode root){
         if(root == null){
             return new Pair(Integer.MAX_VALUE,Integer.MIN_VALUE,0);
-            
             // min, max, sum :  +infinity, -infinity, 0 
         }
         

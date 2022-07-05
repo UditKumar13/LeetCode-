@@ -34,3 +34,7 @@ class Solution {
         
     }
 }
+
+// Intution : Inorder traversal is always in  sorted order
+so we will take advantage of that
+

@@ -19,7 +19,7 @@ public class Codec {
         while(!q.isEmpty()){
             TreeNode node = q.poll();
             if(node == null) {
-                sb.append("n ");
+                sb.append("n");
                 continue;
             }
             

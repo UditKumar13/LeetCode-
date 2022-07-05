@@ -1,4 +1,4 @@
-/**
+ /**
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     public TreeNode trimBST(TreeNode root, int low, int high) {
         if (root == null) return null;
         if(root.val < low) return  trimBST(root.right,low,high);

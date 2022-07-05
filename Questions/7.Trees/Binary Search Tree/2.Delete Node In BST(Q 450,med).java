@@ -27,7 +27,7 @@ class Solution {
         if(data > root.val) root.right = deleteNode(root.right,data);
         else if (data < root.val) root.left = deleteNode(root.left,data);
         else {
-            if(root.left != null && root.right!= null){
+            if(root.left != null && root.right != null){
                 // 2 child 
                 int lmax  = max(root.left);
                 root.val = lmax;
