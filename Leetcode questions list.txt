@@ -8,6 +8,10 @@ gfg_Question = 27 (extra)
 Revision sheet :
 https://github.com/Sunchit/Coding-Decoded/tree/master/SDE%20Revision%20Sheet
 
+C++/Java OOps 
+https://github.com/ankurgupta2020/python
+
+
 To speed up the u tube speed :
 document.getElementsByTagName("video")[0].playbackRate = 2.5
 
@@ -317,8 +321,11 @@ Leetcode 1547 (done)
 212.Leetcode 346 (done)
 https://leetcode.com/problems/wiggle-subsequence/discuss/84843/Easy-understanding-DP-solution-with-O(n)-Java-version
 213.Leetcode 1465 (done) do it again .
-214.leetcode 2193 (done)
-215.
+214.leetcode 2139 (done)
+215.Leetcode 55 (done)
+216.Leetcode 413 (done)
+217.Leetcode 135 (done) hard
+https://www.youtube.com/watch?v=Ya-LfQ0OBkU
 
 
 
